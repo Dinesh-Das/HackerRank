@@ -4,7 +4,8 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Question4
+{
 
 public static void main(String[] args) {
    Scanner sc=new Scanner(System.in);
